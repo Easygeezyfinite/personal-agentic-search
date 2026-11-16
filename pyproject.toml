@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agentic-search"
+version = "0.1.0"
+description = "Private, local semantic + agentic search over notes, docs and email"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.26",
+    "rank-bm25>=0.2.2",
+    "faiss-cpu>=1.8",
+    "sentence-transformers>=3.0",
+    "requests>=2.31",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+pas = "agentic_search.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "models: needs the sentence-transformers / cross-encoder weights (downloads ~150MB the first time)",
+]
