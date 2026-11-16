@@ -1,0 +1,84 @@
+{"qid": "q001", "query": "how big should the time slice be when each process takes turns on the cpu", "relevant": ["note-0001"], "kind": "concept"}
+{"qid": "q002", "query": "what four things have to be true for processes to get permanently stuck waiting on each other", "relevant": ["note-0002"], "kind": "concept"}
+{"qid": "q003", "query": "formula for effective memory access time with the translation cache", "relevant": ["note-0003"], "kind": "concept"}
+{"qid": "q004", "query": "difference between a lock that has an owner and a counter used for signalling", "relevant": ["note-0004"], "kind": "concept"}
+{"qid": "q005", "query": "why can adding more memory frames sometimes cause more page faults", "relevant": ["note-0005"], "kind": "concept"}
+{"qid": "q006", "query": "how does a shell start a new program and wait for it", "relevant": ["note-0006"], "kind": "concept"}
+{"qid": "q007", "query": "shortcut for solving divide and conquer recurrences", "relevant": ["note-0007"], "kind": "concept"}
+{"qid": "q008", "query": "which shortest path algorithm to use when some edges are negative", "relevant": ["note-0008"], "kind": "concept"}
+{"qid": "q009", "query": "why is the bag packing dp not actually polynomial time", "relevant": ["note-0009"], "kind": "concept"}
+{"qid": "q010", "query": "which direction do I reduce when proving a problem is hard", "relevant": ["note-0010"], "kind": "concept"}
+{"qid": "q011", "query": "algorithm that sorts edges and uses union find to connect all vertices cheaply", "relevant": ["note-0011"], "kind": "concept"}
+{"qid": "q012", "query": "when should a schema be decomposed to the stricter normal form instead of the third one", "relevant": ["note-0012"], "kind": "concept"}
+{"qid": "q013", "query": "why are range queries fast on the standard database index", "relevant": ["note-0013"], "kind": "concept"}
+{"qid": "q014", "query": "which isolation level still lets new rows appear between two identical reads", "relevant": ["note-0014"], "kind": "concept"}
+{"qid": "q015", "query": "best way to combine two big tables on an equality condition with no index", "relevant": ["note-0015"], "kind": "concept"}
+{"qid": "q016", "query": "what happens to the sending window after three duplicate acks", "relevant": ["note-0016"], "kind": "concept"}
+{"qid": "q017", "query": "why do domain name changes take a while to show up everywhere", "relevant": ["note-0017"], "kind": "concept"}
+{"qid": "q018", "query": "how many usable hosts in a slash 26 network", "relevant": ["note-0018"], "kind": "concept"}
+{"qid": "q019", "query": "what problem does the newest web protocol over udp fix that version 2 still has", "relevant": ["note-0019"], "kind": "concept"}
+{"qid": "q020", "query": "my training error is low but validation error is high, what does that mean", "relevant": ["note-0020"], "kind": "concept"}
+{"qid": "q021", "query": "why is the gradient so simple when you pair softmax with log loss", "relevant": ["note-0021"], "kind": "concept"}
+{"qid": "q022", "query": "why divide by the square root of the key dimension in transformers", "relevant": ["note-0022"], "kind": "concept"}
+{"qid": "q023", "query": "metric for whether the right result appears anywhere in the first few results", "relevant": ["note-0023"], "kind": "concept"}
+{"qid": "q024", "query": "if vectors are unit length how does dot product relate to the angle between them", "relevant": ["note-0024"], "kind": "concept"}
+{"qid": "q025", "query": "loss keeps bouncing around and blowing up during training, what knob to change", "relevant": ["note-0025"], "kind": "concept"}
+{"qid": "q026", "query": "how long does the banana loaf bake and at what heat", "relevant": ["note-0026"], "kind": "paraphrase"}
+{"qid": "q027", "query": "what goes in the coconut milk dish with garbanzo beans", "relevant": ["note-0027"], "kind": "paraphrase"}
+{"qid": "q028", "query": "breakfast I prep the night before with chia", "relevant": ["note-0028"], "kind": "paraphrase"}
+{"qid": "q029", "query": "eggs poached in tomato sauce recipe", "relevant": ["note-0029"], "kind": "paraphrase"}
+{"qid": "q030", "query": "hydration and yeast amounts for homemade pizza base", "relevant": ["note-0030"], "kind": "paraphrase"}
+{"qid": "q031", "query": "which book explained why my time estimates are always too optimistic", "relevant": ["note-0034"], "kind": "paraphrase"}
+{"qid": "q032", "query": "book with the idea of building a thin end to end slice first", "relevant": ["note-0032"], "kind": "paraphrase"}
+{"qid": "q033", "query": "notes on attaching a new habit to something I already do", "relevant": ["note-0033"], "kind": "paraphrase"}
+{"qid": "q034", "query": "why didn't we go with the amazon nosql database for the ride share app", "relevant": ["note-0055"], "kind": "paraphrase"}
+{"qid": "q035", "query": "what library did we pick for reading the slide pdfs and why", "relevant": ["note-0057"], "kind": "paraphrase"}
+{"qid": "q036", "query": "where does the budgeting tool keep the bank data", "relevant": ["note-0059"], "kind": "paraphrase"}
+{"qid": "q037", "query": "how often is the internship scraper allowed to hit each site", "relevant": ["note-0061"], "kind": "paraphrase"}
+{"qid": "q038", "query": "what happened to the first moisture probe on the plant project", "relevant": ["note-0063"], "kind": "paraphrase"}
+{"qid": "q039", "query": "what address did I give the printer", "relevant": ["note-0065"], "kind": "paraphrase"}
+{"qid": "q040", "query": "what was my idea involving transit data", "relevant": ["note-0066"], "kind": "paraphrase"}
+{"qid": "q041", "query": "when do I need to get the oil changed again", "relevant": ["note-0067"], "kind": "paraphrase"}
+{"qid": "q042", "query": "who owns the plant watering project", "relevant": ["doc-0005"], "kind": "paraphrase"}
+{"qid": "q043", "query": "design doc for the tool that turns lecture slides into markdown", "relevant": ["doc-0002"], "kind": "paraphrase"}
+{"qid": "q044", "query": "how much warning do I need to give before moving out of my apartment", "relevant": ["doc-0006"], "kind": "paraphrase"}
+{"qid": "q045", "query": "am I allowed to have a cat in my place", "relevant": ["doc-0006"], "kind": "paraphrase"}
+{"qid": "q046", "query": "is a cracked laptop screen covered and what does it cost me", "relevant": ["doc-0007"], "kind": "paraphrase"}
+{"qid": "q047", "query": "what forms do I need before doing my taxes", "relevant": ["doc-0008"], "kind": "paraphrase"}
+{"qid": "q048", "query": "what did the advisor say about my cv", "relevant": ["doc-0009"], "kind": "paraphrase"}
+{"qid": "q049", "query": "what time does my flight to Vancouver take off", "relevant": ["email-0001"], "kind": "paraphrase"}
+{"qid": "q050", "query": "what time does my flight to Toronto take off", "relevant": ["email-0002"], "kind": "paraphrase"}
+{"qid": "q051", "query": "what time does my flight to Montreal take off", "relevant": ["email-0003"], "kind": "paraphrase"}
+{"qid": "q052", "query": "what time does my flight to Seattle take off", "relevant": ["email-0004"], "kind": "paraphrase"}
+{"qid": "q053", "query": "what time does my flight to Halifax take off", "relevant": ["email-0005"], "kind": "paraphrase"}
+{"qid": "q054", "query": "booking NE3G8T", "relevant": ["email-0005"], "kind": "exact"}
+{"qid": "q055", "query": "what time does my flight to Denver take off", "relevant": ["email-0006"], "kind": "paraphrase"}
+{"qid": "q056", "query": "booking ZDHL22", "relevant": ["email-0006"], "kind": "exact"}
+{"qid": "q057", "query": "when is the mechanical keyboard I bought supposed to arrive", "relevant": ["email-0007"], "kind": "paraphrase"}
+{"qid": "q058", "query": "when is the monitor I bought supposed to arrive", "relevant": ["email-0008"], "kind": "paraphrase"}
+{"qid": "q059", "query": "order 766964", "relevant": ["email-0008"], "kind": "exact"}
+{"qid": "q060", "query": "when is the running shoes I bought supposed to arrive", "relevant": ["email-0009"], "kind": "paraphrase"}
+{"qid": "q061", "query": "when is the desk lamp I bought supposed to arrive", "relevant": ["email-0010"], "kind": "paraphrase"}
+{"qid": "q062", "query": "when is the headphones I bought supposed to arrive", "relevant": ["email-0011"], "kind": "paraphrase"}
+{"qid": "q063", "query": "when is the textbook I bought supposed to arrive", "relevant": ["email-0012"], "kind": "paraphrase"}
+{"qid": "q064", "query": "order 244581", "relevant": ["email-0012"], "kind": "exact"}
+{"qid": "q065", "query": "when is the backpack I bought supposed to arrive", "relevant": ["email-0013"], "kind": "paraphrase"}
+{"qid": "q066", "query": "order 745974", "relevant": ["email-0013"], "kind": "exact"}
+{"qid": "q067", "query": "when is the water bottle I bought supposed to arrive", "relevant": ["email-0014"], "kind": "paraphrase"}
+{"qid": "q068", "query": "where is the Heron meeting happening now", "relevant": ["email-0015"], "kind": "paraphrase"}
+{"qid": "q069", "query": "where is the Kestrel meeting happening now", "relevant": ["email-0016"], "kind": "paraphrase"}
+{"qid": "q070", "query": "where is the Lantern meeting happening now", "relevant": ["email-0017"], "kind": "paraphrase"}
+{"qid": "q071", "query": "where is the Quarry meeting happening now", "relevant": ["email-0018"], "kind": "paraphrase"}
+{"qid": "q072", "query": "where is the Bramble meeting happening now", "relevant": ["email-0019"], "kind": "paraphrase"}
+{"qid": "q073", "query": "what topics are on the OS midterm", "relevant": ["email-0020"], "kind": "paraphrase"}
+{"qid": "q074", "query": "what topics are on the algorithms midterm", "relevant": ["email-0021"], "kind": "paraphrase"}
+{"qid": "q075", "query": "what topics are on the databases midterm", "relevant": ["email-0022"], "kind": "paraphrase"}
+{"qid": "q076", "query": "what topics are on the networking midterm", "relevant": ["email-0023"], "kind": "paraphrase"}
+{"qid": "q077", "query": "when is someone coming to fix the sink", "relevant": ["email-0024"], "kind": "paraphrase"}
+{"qid": "q078", "query": "how much is my rent going up next year", "relevant": ["email-0026"], "kind": "paraphrase"}
+{"qid": "q079", "query": "what should I study for the robotics company interview", "relevant": ["email-0027"], "kind": "paraphrase"}
+{"qid": "q080", "query": "who is interviewing me at the game studio", "relevant": ["email-0029"], "kind": "paraphrase"}
+{"qid": "q081", "query": "how long is the analytics interview", "relevant": ["email-0028"], "kind": "paraphrase"}
+{"qid": "q082", "query": "how much am I paying for online storage", "relevant": ["email-0030"], "kind": "paraphrase"}
+{"qid": "q083", "query": "how much am I paying for video streaming", "relevant": ["email-0031"], "kind": "paraphrase"}
+{"qid": "q084", "query": "how much am I paying for gym", "relevant": ["email-0032"], "kind": "paraphrase"}
